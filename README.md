@@ -63,7 +63,7 @@ Modifications include:
 ```
 instacart-customer-behavior-analysis/
 │
-├── Sprint3_FinalProject.ipynb
+├── instacart_customer_analysis.ipynb
 ├── orders.csv
 ├── products.csv
 ├── aisles.csv

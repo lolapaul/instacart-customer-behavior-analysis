@@ -18,11 +18,11 @@ Analyze customer purchase patterns and behavior using a dataset derived from the
 
 This project uses five modified tables derived from the public Instacart 2017 dataset (originally released on Kaggle). The dataset includes:
 
-1. **orders.csv** – Customer orders with day/time info
-2. **products.csv** – Product IDs, names, department and aisle references
-3. **order_products.csv** – Ordered items with reordering details
-4. **aisles.csv** – Aisle ID-to-name mappings
-5. **departments.csv** – Department ID-to-name mappings
+1. **orders.csv** – Customer orders with day/time info  
+2. **products.csv** – Product IDs, names, department and aisle references  
+3. **order_products.csv** – Ordered items with reordering details  
+4. **aisles.csv** – Aisle ID-to-name mappings  
+5. **departments.csv** – Department ID-to-name mappings  
 
 Modifications include:
 - Reduced file size for performance
@@ -59,3 +59,41 @@ Modifications include:
 ---
 
 ## 📁 Project Structure
+
+```
+instacart-customer-behavior-analysis/
+│
+├── Sprint3_FinalProject.ipynb
+├── orders.csv
+├── products.csv
+├── aisles.csv
+├── departments.csv
+├── order_products.csv
+├── requirements.txt
+└── README.md
+
+```
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- Python
+- pandas
+- numpy
+- matplotlib
+- Jupyter Notebook
+
+---
+
+## ✅ Status
+
+✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Data Wrangling and EDA*
+
+---
+
+## 📌 Author
+
+David Villanueva  
+[LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
+[GitHub](https://github.com/lolapaul)

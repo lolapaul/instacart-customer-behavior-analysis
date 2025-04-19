@@ -1,10 +1,10 @@
-# 🛒 Instacart Customer Behavior Analysis
+#  Instacart Customer Behavior Analysis
 
 Exploratory data analysis of a modified Instacart dataset to uncover customer behavior and shopping habits. This project includes data cleaning, visualization, and insights on product preferences, reorder behavior, and peak shopping times.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Analyze customer purchase patterns and behavior using a dataset derived from the Instacart grocery delivery platform. The project focuses on answering business-driven questions related to:
 
@@ -14,7 +14,7 @@ Analyze customer purchase patterns and behavior using a dataset derived from the
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 This project uses five modified tables derived from the public Instacart 2017 dataset (originally released on Kaggle). The dataset includes:
 
@@ -31,7 +31,7 @@ Modifications include:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Overview**
    - Load and explore each table
@@ -49,7 +49,7 @@ Modifications include:
 
 ---
 
-## 📊 Key Questions Answered
+##  Key Questions Answered
 
 - What are the busiest hours and days for grocery orders?
 - Which products are most frequently ordered and reordered?
@@ -58,7 +58,7 @@ Modifications include:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 instacart-customer-behavior-analysis/
@@ -76,7 +76,7 @@ instacart-customer-behavior-analysis/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -86,13 +86,13 @@ instacart-customer-behavior-analysis/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Data Wrangling and EDA*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  

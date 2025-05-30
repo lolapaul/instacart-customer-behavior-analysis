@@ -86,12 +86,6 @@ instacart-customer-behavior-analysis/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Data Wrangling and EDA*
-
----
-
 ##  Author
 
 David Villanueva  
